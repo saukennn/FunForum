@@ -1,10 +1,10 @@
-package dao;
+package FanForum.dao;
 
 import java.sql.*;
 import java.util.ArrayList;
 import java.util.List;
 
-import model.Usuario;
+import FanForum.model.Usuario;
 
 public class UsuarioDAO extends DAO {
 	

@@ -1,4 +1,4 @@
-package dao;
+package FanForum.dao;
 
 import java.sql.*;
 import java.security.*;

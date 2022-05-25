@@ -1,4 +1,4 @@
-package model;
+package FanForum.model;
 
 public class Usuario {
 	private int codigo;
